@@ -24,6 +24,6 @@
   - Пользователи могут скачивать созданные графики через `st.download_button`.
 
 - **Деплой в облаке**:
-  - Приложение доступно онлайн благодаря развертыванию в облаке. Доступно по ссылке здесь.
+  - Приложение доступно онлайн благодаря развертыванию в облаке. Доступно по ссылке здесь: [Визуализация tips.csv](https://lefuuu-streamlit-app-tips-visual-ohzaye.streamlit.app) и [Котировки Apple](https://lefuuu-streamlit-app-streamlit-apple-5ozoj5.streamlit.app) .
 
 
